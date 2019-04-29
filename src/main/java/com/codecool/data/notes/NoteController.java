@@ -26,10 +26,4 @@ public class NoteController {
     public Note createNote(@Valid @RequestBody Note note) {
         return noteRepository.save(note);
     }
-
-    // Get a Single Note
-
-    // Update a Note
-
-    // Delete a Note
 }
