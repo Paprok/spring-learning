@@ -1,4 +1,4 @@
-package com.codecool.data;
+package com.codecool.data.notes;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;

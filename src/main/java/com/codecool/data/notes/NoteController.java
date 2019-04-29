@@ -1,4 +1,4 @@
-package com.codecool.data;
+package com.codecool.data.notes;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;

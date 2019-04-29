@@ -1,4 +1,4 @@
-package com.codecool.data;
+package com.codecool.data.notes;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.ResponseStatus;

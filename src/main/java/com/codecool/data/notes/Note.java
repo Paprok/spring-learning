@@ -1,4 +1,4 @@
-package com.codecool.data;
+package com.codecool.data.notes;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import org.springframework.data.annotation.CreatedDate;
